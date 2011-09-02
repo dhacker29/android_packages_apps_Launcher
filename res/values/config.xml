@@ -15,7 +15,7 @@
 -->
 
 <resources>
-	<string name="rom_mod_string">CyanogenMod</string>
+	<string name="rom_mod_string">SHIFTAO5P</string>
 	<bool name="force_hidden_settings">false</bool>
     <bool name="config_desktopRotation">true</bool> 
     <integer name="config_desktopSpeed">450</integer>
@@ -70,7 +70,7 @@
     <!-- config_notif_size min is 10, so it will add 10 to whatever value you set here -->
     <integer name="config_notif_size">4</integer>
     <string name="config_main_dock_style">1</string>
-    <string name="config_drawer_style">1</string>
+    <string name="config_drawer_style">0</string>
     <bool name="config_ab_tint">false</bool>
     <integer name="config_ab_tint_color">0xffffffff</integer>
     <bool name="config_wallpaper_scroll">true</bool>
